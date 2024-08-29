@@ -1,0 +1,1 @@
+ C:\\Users\\kekhe\\Udemy\\AngelaFlutter\\flash_chat\\.dart_tool\\flutter_build\\4de3fbfe8ac94db2426b120fef5394d8\\native_assets.yaml: 

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "39541925257",
+    "project_id": "flash-chat-bff4b",
+    "storage_bucket": "flash-chat-bff4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39541925257:android:73ffd42fe8a7cc35eeed58",
+        "android_client_info": {
+          "package_name": "com.megaford.flash_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ3wg1wYSQE8idwdXTdiZKvLW3SZPHyyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
