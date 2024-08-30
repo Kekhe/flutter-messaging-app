@@ -15,4 +15,4 @@ A sleek and efficient real-time messaging app built using Firebase for robust ba
 
 • Flutter: Cross-platform framework for building the mobile application.
 
-•Dart: The programming language for Flutter development.
+• Dart: The programming language for Flutter development.
