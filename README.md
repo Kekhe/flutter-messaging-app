@@ -11,7 +11,7 @@ A sleek and efficient real-time messaging app built using Firebase for robust ba
 • Flutter: Cross-platform framework for building the mobile application.  
 • Dart: The programming language for Flutter development.  
  
-## 🔧 Installation  
+## Installation  
 To run the app locally, follow these steps:  
 
 ### Clone the repository:  
