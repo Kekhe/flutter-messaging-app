@@ -1,4 +1,5 @@
-# ⚡**Real-Time Messaging App**
+# ⚡Flash Chat  
+## **Real-Time Messaging App**  
 A sleek and efficient real-time messaging app built using Firebase for robust backend services. This app enables users to connect and communicate instantly with one another, delivering a seamless messaging experience.
 
 ## **Features**  
