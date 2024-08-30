@@ -16,3 +16,22 @@ A sleek and efficient real-time messaging app built using Firebase for robust ba
 • Flutter: Cross-platform framework for building the mobile application.
 
 • Dart: The programming language for Flutter development.
+
+# 🔧 Installation
+To run the app locally, follow these steps:
+
+### Clone the repository:
+
+    git clone https://github.com/Kekhe/flutter-weather-app.git
+    
+### Navigate to the project directory:
+
+    cd flutter-weather-app
+    
+### Install dependencies:
+
+    flutter pub get
+    
+### Run the app:
+
+    flutter run
