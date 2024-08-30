@@ -1,17 +1,17 @@
 # ⚡**Real-Time Messaging App**
 A sleek and efficient real-time messaging app built using Firebase for robust backend services. This app enables users to connect and communicate instantly with one another, delivering a seamless messaging experience.
 
-### **Features**  
+## **Features**  
 • User Authentication: Secure login and registration to ensure the safety and privacy of user data.  
 • Real-Time Messaging: Instant message delivery and synchronization across all user devices using Firebase's real-time database.  
 • Intuitive Interface: Designed to offer a smooth and engaging user experience.  
 
-### **Technologies Used**  
+## **Technologies Used**  
 • Firebase: Backend services for authentication, real-time database, and cloud storage.  
 • Flutter: Cross-platform framework for building the mobile application.  
 • Dart: The programming language for Flutter development.  
  
-# 🔧 Installation  
+## 🔧 Installation  
 To run the app locally, follow these steps:  
 
 ### Clone the repository:  
