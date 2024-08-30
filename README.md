@@ -15,7 +15,7 @@ A sleek and efficient real-time messaging app built using Firebase for robust ba
 To run the app locally, follow these steps:  
 
 #### Clone the repository:  
-    git clone https://github.com/Kekhe/flutter-weather-app.git  
+    git clone https://github.com/Kekhe/flutter-messaging-app.git  
     
 #### Navigate to the project directory:  
     cd flutter-weather-app  
