@@ -18,7 +18,7 @@ To run the app locally, follow these steps:
     git clone https://github.com/Kekhe/flutter-messaging-app.git  
     
 #### Navigate to the project directory:  
-    cd flutter-weather-app  
+    cd flutter-messaging-app  
     
 #### Install dependencies:  
     flutter pub get  
