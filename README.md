@@ -26,3 +26,11 @@ To run the app locally, follow these steps:
     
 #### Run the app:  
     flutter run  
+
+# Screenshots
+![Project Screenshot](main_screen.png)
+![Project Screenshot](register.png)
+![Project Screenshot](login.png)
+![Project Screenshot](chat_screen.png)
+![Project Screenshot](firestore.png)
+
